@@ -1,0 +1,222 @@
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.json
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.exe
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.deps.json
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.json
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.dev.json
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.pdb
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.Views.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.Views.pdb
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csprojAssemblyReference.cache
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfoInputs.cache
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfo.cs
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CoreCompileInputs.cache
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorAssemblyInfo.cache
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorAssemblyInfo.cs
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.xml
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication3.styles.css
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.TagHelpers.input.cache
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.TagHelpers.output.cache
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorCoreGenerate.cache
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Quiz.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cache
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cs
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.Views.pdb
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CopyComplete
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.dll
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.pdb
+f:\teaching\teaching\Веб всякий\sergeev.artyo.931703.labs-lab3\sergeev.artyo.931703.labs-lab3\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.genruntimeconfig.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\appsettings.json
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.exe
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.deps.json
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.json
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.runtimeconfig.dev.json
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.pdb
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.Views.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\WebApplication3.Views.pdb
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csprojAssemblyReference.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfoInputs.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.AssemblyInfo.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CoreCompileInputs.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.MvcApplicationPartsAssemblyInfo.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorAssemblyInfo.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorAssemblyInfo.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.Manifest.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication3.StaticWebAssets.xml
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication3.styles.css
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.TagHelpers.input.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.TagHelpers.output.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorCoreGenerate.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Quiz.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cache
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.RazorTargetAssemblyInfo.cs
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.Views.pdb
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.csproj.CopyComplete
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.dll
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.pdb
+f:\teaching\teaching\Веб всякий\web 2 sem\2.3.1\WebApplication3\obj\Debug\netcoreapp3.1\WebApplication3.genruntimeconfig.cache
